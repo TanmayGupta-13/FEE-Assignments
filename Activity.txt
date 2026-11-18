@@ -1,0 +1,52 @@
+1. arrange in order of importance-
+
+JS
+UI
+UX
+React
+Component
+Web application
+Function
+Props
+State
+Buttons
+onClick
+Forms
+onSubmit
+Validation
+map
+filter
+CSS
+Links
+Multipages
+Router
+Nested routes
+Global state
+Zustand
+
+
+
+2. 5 most important topics
+
+(i) JavaScript - Adds functionality to webpage.It handles things like button clicks, calculations, data, and user actions.
+                 It is one of the main technologies used in web development.
+                 Keywords- Functional , logic, interactive
+                 I chose it because it is the base of many web technologies
+
+(ii) React - JS librry used to develop web applications.It helps us create reusable parts called components and makes it 
+             easier to update the screen when data changes.It uses a virtual DOM. It is fast.
+             Keywords - components, virtual DOM, state, Props
+             I chose it because it makes developing large applications easier and more organized.
+
+(iii) UI - UI means User Interface. It is what the user sees and interacts with, such as buttons, forms, menus, colors, 
+           and layouts. A good UI makes an application clear and attractive.
+           Keywords - interface,design,layout
+           I chose ir because better UI attracts more people, and clear UI makes using the application easy.
+
+(iv) UX - UX means User Experience and focuses on how easy an application is to use. I chose it because even a powerful 
+          application is not useful if users find it confusing or difficult.
+          Keywords - usability, navigation, experience
+
+(v) Component - A component is a reusable part of a React application, such as a navbar, button, or card. 
+                Keywords - reusable,structured
+                I chose it because components make large applications easier to develop and manage.
